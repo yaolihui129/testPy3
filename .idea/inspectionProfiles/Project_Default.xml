@@ -1,0 +1,19 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="bffPython.ex15.*" />
+          <option value="bffPython.ex15.raw_input" />
+          <option value="bffPython.ex14.*" />
+          <option value="bffPython.ex14.raw_input" />
+          <option value="bffPython.ex11.*" />
+          <option value="bffPython.ex11.raw_input" />
+          <option value="bffPython.ex12.raw_input" />
+          <option value="bffPython.ex12.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
